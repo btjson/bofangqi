@@ -235,4 +235,4 @@ $this->setPlayer(‘dplayer’);
 
 技术支持
 
-     乐乐    黑白  Tim  btjson
+     乐乐    黑白  Tim  btjson  某毅
