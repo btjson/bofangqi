@@ -1,8 +1,6 @@
 
 
-官方网站： www.5mrk.com
-
-Telegram万人群https://t.me/BT_json
+官方网站： www.5mrk.com         Telegram万人群https://t.me/BT_json
 
 
 
